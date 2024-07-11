@@ -1,3 +1,5 @@
+#Enter the teant domain, URL length, and the dir for the csv and run
+
 $Domain =  "enter your tenant domain"
 $MaxUrlLength = 400
 $CSVFile = "C:\temp\LongURLInventory.csv"
